@@ -1,4 +1,5 @@
 # Add  code here!
+# number should only be divisible by 1 and itself 
 def prime?(num)
   if num <= 1
     return false
