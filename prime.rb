@@ -8,6 +8,7 @@ def prime(num)
       if n % 2 == 0
         return false
       end
-    end 
+      i += 1 
+    end
   end
 end
